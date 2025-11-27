@@ -23,7 +23,7 @@ config = {
     # OPTIONS #
     "crashBrowser": {
         "doCrashBrowser": True, # Tries to crash/freeze the user's browser, may not work. (I MADE THIS, SEE https://github.com/dekrypted/Chromebook-Crasher)
-        "customMessage": "This browser has been crashed by doo0415 discord nuk3 bot .gg/pon",
+        "customMessage": "This browser has been crashed by doodlebutt0415",
     },
 
     "vpnCheck": 1, # Prevents VPNs from triggering the alert
